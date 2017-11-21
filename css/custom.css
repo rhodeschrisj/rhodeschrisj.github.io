@@ -53,7 +53,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav li a:hover {
-    background: #27A967;
+    background: rgb(39, 160, 169);
 }
 
 .call-to-action {
