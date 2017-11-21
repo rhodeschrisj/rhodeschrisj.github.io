@@ -68,3 +68,16 @@ p {
 .glyphicon-large {
     font-size: 100px;
 }
+
+ul.dropdown-menu {
+    background: #2E2F31;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: none;
+}
+
+ul.dropdown-menu li  {
+    background: #2E2F31;
+    font: white;
+
+}
